@@ -1,6 +1,5 @@
 [version]1.1.8[/version]
 [history]
 This is test message...!!
-<br/>
 No new version is actually available.
 [/history]
