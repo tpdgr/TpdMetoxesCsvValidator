@@ -1,5 +1,4 @@
-[version]1.1.8[/version]
+[version]1.1.5[/version]
 [history]
-This is test message...!!
-No new version is actually available.
+Version Check was added.
 [/history]
