@@ -1,5 +1,5 @@
 [version]1.1.7[/version]
-[forced]1.1.6[/forced]
+[forced]1.0[/forced]
 [history]
 New version available at https://github.com/tpdgr/TpdMetoxesCsvValidator/blob/master/TpdMetoxesCsvValidator-1.1.7.rar
 Changes: 
