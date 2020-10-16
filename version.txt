@@ -1,8 +1,8 @@
-[version]1.1.7[/version]
+[version]1.1.8[/version]
 [forced]1.0[/forced]
 [history]
-New version available at https://github.com/tpdgr/TpdMetoxesCsvValidator/blob/master/TpdMetoxesCsvValidator-1.1.7.rar
+New version available at https://github.com/tpdgr/TpdMetoxesCsvValidator/blob/master/TpdMetoxesCsvValidator-1.1.8.rar
 Changes: 
-+New warnings added 
-+Read Me Updated
++New synonyms added 
++New file types added
 [/history]
