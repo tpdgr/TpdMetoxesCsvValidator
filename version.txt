@@ -1,4 +1,4 @@
-[version]1.2.1[/version]
+[version]1.2.2[/version]
 [forced]1.2.0[/forced]
 [history]
 New version available at https://github.com/tpdgr/TpdMetoxesCsvValidator/blob/master/TpdMetoxesCsvValidator-1.2.1.rar
